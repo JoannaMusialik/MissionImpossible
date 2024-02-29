@@ -1,2 +1,6 @@
-# MissionImpossible
-Project created for subject ZCUZ during 2024L semester.
+# Istotne linki 
+
+| Opis | Url |
+| ---- | --- | 
+| Dokumentacja etapu 1 | |
+| Projekt szkiców GUI w Canvie | |
